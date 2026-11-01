@@ -43,8 +43,8 @@ VirtualBox · Kali Linux · Ubuntu Server 24.04 LTS · Metasploitable 2 · nmap 
 
 ### Build
 - [x] VirtualBox 7 + Extension Pack installed
-- [ ] Kali, Ubuntu Server 24.04, and Metasploitable 2 downloaded
-- [ ] All three VMs added to VirtualBox
+- [x] Kali, Ubuntu Server 24.04, and Metasploitable 2 downloaded
+- [x] All three VMs added to VirtualBox
 - [ ] Adapters wired to `labnet` (Metasploitable internal-only)
 - [ ] Static IPs set (Kali .10, Ubuntu .20, Metasploitable .30)
 - [ ] Connectivity verified (`ping` .20 and .30 from Kali)
